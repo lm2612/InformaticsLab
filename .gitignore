@@ -1,0 +1,8 @@
+*.pdf
+*.png
+*.jpeg
+*.jpg
+*.o
+*.exe
+*.pyc
+.*
