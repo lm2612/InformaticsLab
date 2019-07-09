@@ -6,3 +6,6 @@
 *.exe
 *.pyc
 .*
+*.doc
+*.docx
+
